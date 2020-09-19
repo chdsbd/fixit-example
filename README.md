@@ -1,8 +1,5 @@
 # fixit example
 
-
-1. clone repository
-2. poetry install
 ```
 # clone repository
 git clone git@github.com:chdsbd/fixit-example.git && cd fixit-example
